@@ -1,0 +1,39 @@
+{
+  "product": [
+    {
+      "id": 1,
+      "name": "Ao tay ngan",
+      "price": 500,
+      "status": true
+    },
+    {
+      "id": 2,
+      "name": "Ao tay dai",
+      "price": 700,
+      "status": true
+    },
+    {
+      "id": 3,
+      "name": "Ao tay cut",
+      "price": 800,
+      "status": true
+    }
+  ],
+  "category": [
+    {
+      "id": 1,
+      "value": "ao",
+      "status": true
+    },
+    {
+      "id": 2,
+      "value": "quan",
+      "status": true
+    },
+    {
+      "id": 3,
+      "value": "non",
+      "status": true
+    }
+  ]
+}
